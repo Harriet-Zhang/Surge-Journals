@@ -1,34 +1,34 @@
-DOMAIN-SUFFIX,nature.com
-DOMAIN-SUFFIX,science.org
-DOMAIN-SUFFIX,pubs.acs.org
-DOMAIN-SUFFIX,pubs.rsc.org
-DOMAIN-SUFFIX,journals.aps.org
-DOMAIN-SUFFIX,cell.com
-DOMAIN-SUFFIX,sciencedirect.com
-DOMAIN-SUFFIX,onlinelibrary.wiley.com
-DOMAIN-SUFFIX,tandfonline.com
-DOMAIN-SUFFIX,pubs.aip.org
-DOMAIN-SUFFIX,webofscience.com
-DOMAIN-SUFFIX,engineeringvillage.com
-DOMAIN-SUFFIX,esi.clarivate.com
-DOMAIN-SUFFIX,ieeexplore.ieee.org
-DOMAIN-SUFFIX,iopscience.iop.org
-DOMAIN-SUFFIX,iop.calis.edu.cn
-DOMAIN-SUFFIX,jcr.clarivate.com
-DOMAIN-SUFFIX,opg.optica.org
-DOMAIN-SUFFIX,pqdtcn.com
-DOMAIN-SUFFIX,proquest.com
-DOMAIN-SUFFIX,researchgate.net
-DOMAIN-SUFFIX,web.s.ebscohost.com
-DOMAIN-SUFFIX,cnki.net
-DOMAIN-SUFFIX,g.wanfangdata.com.cn
-DOMAIN-SUFFIX,sslibrary.com
-DOMAIN-SUFFIX,link.springer.com
-DOMAIN-SUFFIX,emerald.com
-DOMAIN-SUFFIX,duxiu.com
-DOMAIN-SUFFIX,ssrn.com
-DOMAIN-SUFFIX,jstor.org
-DOMAIN-SUFFIX,web.s.ebscohost.com
-DOMAIN-KEYWORD,clarivate
+DOMAIN-SUFFIX,nature.com,🏫 Campus
+DOMAIN-SUFFIX,science.org,🏫 Campus
+DOMAIN-SUFFIX,pubs.acs.org,🏫 Campus
+DOMAIN-SUFFIX,pubs.rsc.org,🏫 Campus
+DOMAIN-SUFFIX,journals.aps.org,🏫 Campus
+DOMAIN-SUFFIX,cell.com,🏫 Campus
+DOMAIN-SUFFIX,sciencedirect.com,🏫 Campus
+DOMAIN-SUFFIX,onlinelibrary.wiley.com,🏫 Campus
+DOMAIN-SUFFIX,tandfonline.com,🏫 Campus
+DOMAIN-SUFFIX,pubs.aip.org,🏫 Campus
+DOMAIN-SUFFIX,webofscience.com,🏫 Campus
+DOMAIN-SUFFIX,engineeringvillage.com,🏫 Campus
+DOMAIN-SUFFIX,esi.clarivate.com,🏫 Campus
+DOMAIN-SUFFIX,ieeexplore.ieee.org,🏫 Campus
+DOMAIN-SUFFIX,iopscience.iop.org,🏫 Campus
+DOMAIN-SUFFIX,iop.calis.edu.cn,🏫 Campus
+DOMAIN-SUFFIX,jcr.clarivate.com,🏫 Campus
+DOMAIN-SUFFIX,opg.optica.org,🏫 Campus
+DOMAIN-SUFFIX,pqdtcn.com,🏫 Campus
+DOMAIN-SUFFIX,proquest.com,🏫 Campus
+DOMAIN-SUFFIX,researchgate.net,🏫 Campus
+DOMAIN-SUFFIX,web.s.ebscohost.com,🏫 Campus
+DOMAIN-SUFFIX,cnki.net,🏫 Campus
+DOMAIN-SUFFIX,g.wanfangdata.com.cn,🏫 Campus
+DOMAIN-SUFFIX,sslibrary.com,🏫 Campus
+DOMAIN-SUFFIX,link.springer.com,🏫 Campus
+DOMAIN-SUFFIX,emerald.com,🏫 Campus
+DOMAIN-SUFFIX,duxiu.com,🏫 Campus
+DOMAIN-SUFFIX,ssrn.com,🏫 Campus
+DOMAIN-SUFFIX,jstor.org,🏫 Campus
+DOMAIN-SUFFIX,web.s.ebscohost.com,🏫 Campus
+DOMAIN-KEYWORD,clarivate,🏫 Campus
 
 
